@@ -1,3 +1,3 @@
-###Decentralized-Voting-System
+# Decentralized-Voting-System
 
-#A decentralized voting system using Ethereum blockchain for secure and transparent elections, with features like user authentication and real-time result tracking.
+## A decentralized voting system using Ethereum blockchain for secure and transparent elections, with features like user authentication and real-time result tracking.
